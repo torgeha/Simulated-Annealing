@@ -1,8 +1,8 @@
-*.class
 /bin
-.settings
+*.class
 .classpath
 .project
+.settings/*
 
 # Package Files #
 *.jar
